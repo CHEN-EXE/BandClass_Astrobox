@@ -3,17 +3,18 @@
     "id": "com.naoh.bandclass.classschedule",
     "restype": "quick_app",
     "name": "BandClass",
-    "description": "BandClass-V1.0\n免费课程表\n\n已知适配设备\n小米手环9Pro,Redmi Watch 6,小米手环10Pro\n其他小米手环穿戴产品可尝试在米坛社区（点击【官方网站】-【下载】）下载rpk安装运行，若手环死机请反复插拔充电器 10 次强制重启。\n\n功能介绍\n该课程表支持【课程倒计时】，【倒计时伪表盘】，【课程表管理】，【课程管理】，【一键调课】，【自定义课程】。以及【场景】功能（适应学校规则或铃声规则），【计时器误差调整】，【X分钟等候上课】，另外提供更多个性化功能。\n因 BandClass 暂未开发同步器工具，因此该版本【备份与恢复】功能无法使用，敬请期待\n\n\n\n更多穿戴设备持续兼容中。",
+    "description": "BandClass-V1.1.0\n免费课程表\n\n已知适配设备\n小米手环9Pro,Redmi Watch 6,小米手环10Pro\n其他小米手环穿戴产品可尝试在米坛社区（点击【官方网站】-【下载】）下载rpk安装运行，若手环死机请反复插拔充电器 10 次强制重启。\n\n功能介绍\n该课程表支持【课程倒计时】，【倒计时伪表盘】，【课程表管理】，【课程管理】，【一键调课】，【自定义课程】。以及【场景】功能（适应学校规则或铃声规则），【计时器误差调整】，【X分钟等候上课】，另外提供更多个性化功能。\n\n该版本已支持同步器功能，可安装同步器进行配置\n\n\n\n更多穿戴设备持续兼容中。",
     "preview": [
-      "media/容器 2 (1).png",
+      "media/容器 2 (2).png",
       "media/容器 44.png",
       "media/容器 29 (3).png",
       "media/容器 28.png",
       "media/容器 11.png",
       "media/容器 25.png",
-      "media/容器 16.png"
+      "media/容器 16.png",
+      "media/容器 47 (1).png"
     ],
-    "icon": "media/容器 14 (1).png",
+    "icon": "media/容器 14 (2).png",
     "cover": "media/幻灯片 4_3 - 2 (1).png",
     "author": [
       {
@@ -26,29 +27,58 @@
     {
       "title": "官方网站",
       "url": "https://bandclass.netlify.app/#",
-      "icon": "ArrowCircleRight"
+      "icon": "arrow-circle-right"
     },
     {
       "title": "视频",
       "url": "https://www.bilibili.com/video/BV1KmhR6mEsU/",
-      "icon": "ArrowCircleUpLeft"
+      "icon": "arrow-circle-up-left"
     }
   ],
   "downloads": {
     "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.naoh.bandclass.classschedule.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.naoh.bandclass.classschedule.release.1.1.0.rpk",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "首页【今日课程】页面优化\n周课表页面框架优化\n上线【同步器】功能，快速录入课表或备份恢复"
+        }
+      ]
     },
     "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.naoh.bandclass.classschedule.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.naoh.bandclass.classschedule.release.1.1.0.rpk",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "首页【今日课程】页面优化\n周课表页面框架优化\n上线【同步器】功能，快速录入课表或备份恢复"
+        }
+      ]
     },
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.naoh.bandclass.classschedule.release.1.0.0.rpk",
-      "versionCode": 1
+      "version": "1.1.0",
+      "file_name": "downloads/com.naoh.bandclass.classschedule.release.1.1.0.rpk",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "首页【今日课程】页面优化\n周课表页面框架优化\n上线【同步器】功能，快速录入课表或备份恢复"
+        }
+      ]
+    },
+    "xmrw5": {
+      "version": "1.1.0",
+      "file_name": "downloads/com.naoh.bandclass.classschedule.release.1.1.0.rpk",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "首页【今日课程】页面优化\n周课表页面框架优化\n上线【同步器】功能，快速录入课表或备份恢复"
+        }
+      ]
     }
   },
   "ext": {}
